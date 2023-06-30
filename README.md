@@ -4,7 +4,7 @@
  Introduction
 This section explains the research design, machine learning types to be used in this study, describes the work flow of this study. 
 Data collection and preparation
-The data for the project is a popular dataset in data science and machine learning known as CIFAR-10 which was a tiny images collected by MIT and NYU over a period of six months(McCrary, 1992) . which contains 60,000 tiny images.
+The data for the project is a popular dataset in data science and machine learning known as CIFAR-10 which has a tiny images collected by MIT and NYU over a period of six months(McCrary, 1992) . which contains 60,000 tiny images.
 
 
 
